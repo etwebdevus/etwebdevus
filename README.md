@@ -1,55 +1,14 @@
+Demonstrated history of excellence throughout multiple positions with several companies with a focus on Full Stack Development and Engineering.
 
-# About Me
+- Front end developer with 9 years of experience designing, building, and implementing web and mobile applications
+- Innovative problem-solver, designer, and coder with excellent time and task management skills.
+- Well-versed in Scrum team participation, remote work communication and project management tools.
 
-Hi! Thanks for interesting about me. For many years, I have worked as a full-stack developer and have done many projects until now.
-I want to introduce myself about my skills and services.
-
-Here are my skills:
-
-♛ Web Technologies
-
-   ✮ Backend - PHP(Laravel, CI, Yii, Zend), ASP.NET(MVC, Core), Python(Django, Flask), Node.js(Express)
-   
-   ✮ Frontend - HTML5, CSS3/SCSS, Bootstrap, jQuery, Vue.js, React.js, Angular.js
-   
-♛ Mobile Technologies
-
-   ✮ Android - Java
-   
-   ✮ iOS - Swift, Object C
-   
-♛ Desktop Techologies
-
-   C/C++, C#, Qt5
-   
-♛ Hybrid Techologies
-
-   React Native, Ionic
-   
-♛ Other Techologies
-
-   ✮ Scraping and Automation using several Technologies
-   
-   ✮ Database management
-   
-   ✮ Server Configuration and Management
-   
-
-
-Now I am ready to start your job now. Please don't hesitate to hire me.
-
-I will be your reliable freelancer forever.
-
-
-Best Regards.
-
-
-
-# My Contacts
-
-Email: andynwang.us@gmail.com
-
-Phone: +1 540 751 8691
+Technical scope
+- Frontend Development: React/Next.js, Vue.js/Nuxt.js, JavaScript, TypeScript 
+- Backend Development: Node.js/Express.js
+- Mobile Development: React-Native
+- Desktop App Development: React-Electron
 
 <!--
 **andywangdev/andywangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
