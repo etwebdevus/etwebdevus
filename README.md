@@ -10,6 +10,8 @@ Technical scope
 - Mobile Development: React-Native
 - Desktop App Development: React-Electron
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **andywangdev/andywangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
